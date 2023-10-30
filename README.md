@@ -1,2 +1,2 @@
-# MyAlarmClock-App
-Source Code Aplikasi Alarm Sederhana
+# Aplikasi alarm
+Mobile App sederhana alarm, dibuat menggunakan Android Studio dengan bahasa Java
